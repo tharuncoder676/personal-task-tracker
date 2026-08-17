@@ -34,7 +34,7 @@ python tracker.py
 ## Project Status
 
 Early work in progress. The Git workflow is set up and the feature list above
-is planned next.
+is planned next. Contributions and suggestions are welcome.
 
 ## Author
 
