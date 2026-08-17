@@ -39,3 +39,8 @@ is planned next. Contributions and suggestions are welcome.
 ## Author
 
 **tharuncoder676** — [github.com/tharuncoder676](https://github.com/tharuncoder676)
+
+## Contributing
+
+Contributions are welcome. Please open an issue before starting work on a
+large change so we can agree on the approach first.
